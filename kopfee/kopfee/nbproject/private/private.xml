@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/login.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/controller/MainController.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/createtransaction.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/order.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/RegistrationServlet.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/dashboard.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/css/style.css</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/index2.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/edit.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/register.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/controller/ReservationController.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/createreservation.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/transaction.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/Delete.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/CreateReservation.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/CreateTransaction.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/model/ReservationModel.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/servlet/Edit.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/src/java/controller/TransactionController.java</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/reservation.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/thankyou.jsp</file>
+            <file>file:/C:/Users/Haikal/Documents/NetBeansProjects/kopfee/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
